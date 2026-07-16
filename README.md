@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Demo repository
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Sample GitHub org demo: an `index.html` page, two Actions workflows, and a CSS stylesheet dependency. Use it to try org permissions and CI without touching a product repo.
